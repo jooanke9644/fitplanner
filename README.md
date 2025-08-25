@@ -35,3 +35,5 @@ It helps gym owners and trainers manage **schedules, members, and classes** effi
 ```bash
 git clone https://github.com/YOUR-ID/YOUR-REPO.git
 cd YOUR-REPO
+
+MIT License 
